@@ -1,0 +1,11 @@
+#carouselInicio {
+    max-height:300px;
+}
+
+#carouselInicio img {
+    max-height: 300px;
+}
+
+#formSuccess {
+    display: none;
+}
